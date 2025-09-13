@@ -14,7 +14,7 @@ Proyek ini merupakan implementasi dari [FreeCodeCamp Frontend Libraries Project]
 ---
 
 ## 🚀 Demo
-👉 [Lihat Live Demo di GitHub Pages](https://ddekaee.github.io/markdown-previewer/)  
+👉 [Lihat Live Demo di GitHub Pages](https://ddekaee.github.io/previewMarkdown/)  
 
 ---
 
@@ -36,6 +36,6 @@ Proyek ini merupakan implementasi dari [FreeCodeCamp Frontend Libraries Project]
 1. Clone repo ini:
    ```bash
    git clone https://github.com/ddekaee/previewMarkdown.git
-Buka file index.html di browser.
+2. Buka file index.html di browser.
 
-Selesai ✅
+3. Selesai ✅
